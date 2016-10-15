@@ -1,0 +1,6 @@
+Flask==0.11.1
+Flask-Socketio==1.2
+Flask-Script==2.0.5
+
+pytest==3.0.3
+pytest_cov==2.4.0
